@@ -18,18 +18,6 @@
 	top:1px;
 }
 
-#newCar {
-	margin: 0 auto;
-	width: 90%;
-}
-
-#charCounter { float:right }
-
-textarea {
-  width:		100%;
-	height: 	10em;
-}
-
 #content {
   width: 90% ;
   margin-left: auto ;
